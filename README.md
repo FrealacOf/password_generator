@@ -1,4 +1,4 @@
-# Password Generator
+# Password Generator (<a href="https://discord.gg/btPMHAv5ug">Thx Graven For the Help</a>)
 A password generator
 
 # Install 
